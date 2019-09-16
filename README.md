@@ -16,7 +16,7 @@ If you are looking for a mentor. Please post an issue with the tag `Looking-For-
 
 # Available Mentor
 
-If you are a mentor interested in guiding a young mind to love your tech stack under the tag `Mentor`. Please post a little bit about it, and any special requirements it may have (IE, iOS development requires a Mac) 
+If you are a mentor interested in guiding a young mind to love your tech stack under the tag `Mentor`. Please post a little bit about it, and any special requirements it may have (e.g., iOS development requires a Mac) 
 
 # Code Reviews
 
