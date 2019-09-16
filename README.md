@@ -10,7 +10,7 @@ The goal of this project is to provide a place for new developers to get feedbac
 1. The mentor will help resolve the issues.
 1. If the mentee gets stuck, the mentor will open "feature request" style tickets on the repo to encourage more progress. 
 
-# Looking for Menntor
+# Looking for Mentor
 
 If you are looking for a mentor. Please post an issue with the tag `Looking-For-Mentor`. Please post what tech stack you are interested in learning. Be as vague or accurate as you feel fits. If you have an existing project please post a link to that. 
 
