@@ -2,6 +2,8 @@
 
 The goal of this project is to provide a place for new developers to get feedback on their project from someone with work experience. This will help bring the mentee up as well as spread the knowledge from the mentor. This shouldn't focus on 1-1 time but rather code review and feature suggestions.
 
+**This repo is not intended to hold code or reviews, but rather match make people and their repos.** 
+
 ## How it works in a perfect world
 
 1. The mentee will devote some time to learning, This should be some what scheduled. We all know how easy it is to stop when you've fallen off the horse.
